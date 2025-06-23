@@ -10,11 +10,11 @@
             color: #333;
             text-align: center;
         }
-        #band {
+        #bands {
             list-style-type: none;
             padding: 0;
         }
-        #band li {
+        #bands li {
             padding: 8px 0;
             border-bottom: 1px solid #eee;
         }
